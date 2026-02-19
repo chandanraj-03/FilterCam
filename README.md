@@ -89,4 +89,4 @@ filters-camera/
 **Developer**: Chandan Raj
 
 ---
-*Made with ❤️ *
+*Made with ❤️*
